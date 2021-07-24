@@ -1,6 +1,4 @@
-#STEVEN
-#TP054243
-setwd("E:/Lecture/0_Assignment/Year 2 - Sem 1/PFDA")
+#Author: STEVEN
 
 #load packages and import data
 library("ggplot2")
